@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+em{
+    color: rgb(143,38,31);
+}
+b{
+    background-color:rgb(199, 58, 222);;
+}
+u{
+    background-color: orange;
+}
+
+
+a{
+    color:#BDA22A ;
+}
+body{
+    background-color:#14148F;
+}
+p{
+    color: #D3DB88;
+}
+
+
+.h1index{
+color:#a07423;
+}
+.h2index{
+    color:#a07423;
+}
+.h1pagetwo{
+    color:#2dc5cf;
+}
+.h3pagetwo{
+    color:#2dc5cf;
+}
+.h1page3{
+    color:#d80599;
+}
+.h3page3{
+    color:#d80599;
+}
+.h1page4{
+    color:#d8d405
+    ;
+}
+.h3page4{
+    color:#d8d405;
+
+}
+.h1page5{
+    color:#d87d05
+    ;
+}
+.h3page5{
+    color:#d87d05
+    ;
+}
+
+
